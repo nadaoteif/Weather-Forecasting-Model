@@ -20,3 +20,6 @@ https://1drv.ms/x/s!AnRHSi9fj1UVg7ZvbUhAPCWjX0pqcg?e=Wky4jU
 https://medium.com/@nadaoteif/weather-forecasting-model-in-saudi-arabia-b51e2395b608
 
 
+
+
+
