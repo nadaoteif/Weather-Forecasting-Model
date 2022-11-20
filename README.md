@@ -11,5 +11,12 @@ https://datasource.kapsarc.org/explore/dataset/saudi-hourly-weather-data/table/?
 
 https://sage.nelson.wisc.edu/data-and-models/datasets/crop-calendar-dataset/
 
-3- blog 
+3 - The link of our dataset
+
+https://1drv.ms/x/s!AnRHSi9fj1UVg7ZvbUhAPCWjX0pqcg?e=Wky4jU
+
+4- Blog 
+
 https://medium.com/@nadaoteif/weather-forecasting-model-in-saudi-arabia-b51e2395b608
+
+
