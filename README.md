@@ -1,4 +1,4 @@
-# Weather-in-Saudi-Arabia
+# Weather in Saudi Arabia
 
 The capstone project describes and solves the problem faced in the Kingdom of Saudi Arabia related to the weather and how can plant flowers, palms, or trees, this problem has been solved by building a model to predict the air temperature based on the information that we have.(our dataset)
 dataset link:
@@ -10,3 +10,6 @@ https://datasource.kapsarc.org/explore/dataset/saudi-hourly-weather-data/table/?
 2- Crop Calendar Dataset | Center for Sustainability and the Global Environment
 
 https://sage.nelson.wisc.edu/data-and-models/datasets/crop-calendar-dataset/
+
+3- blog 
+https://medium.com/@nadaoteif/weather-forecasting-model-in-saudi-arabia-b51e2395b608
