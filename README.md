@@ -1,4 +1,4 @@
-#Weather-in-Saudi-Arabia
+# Weather-in-Saudi-Arabia
 
 The capstone project describes and solves the problem faced in the Kingdom of Saudi Arabia related to the weather and how can plant flowers, palms, or trees, this problem has been solved by building a model to predict the air temperature based on the information that we have.(our dataset)
 dataset link:
